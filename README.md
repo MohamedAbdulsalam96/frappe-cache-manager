@@ -21,12 +21,12 @@ Cache Manager is a Frappe app that enhances the performance of your Frappe/ERPNe
 ```bash
 bench get-app https://git.techseria.com/erpnext/cache_manager.git
 bench --site your-site-name install-app cache_manager
+```
 
 ### Prerequisites
 
 - **Frappe Framework**: Ensure you have a working Frappe or ERPNext installation.
 - **Redis Server**: A Redis server accessible to your Frappe instance.
-
 
 #### License
 
